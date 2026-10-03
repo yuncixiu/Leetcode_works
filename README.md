@@ -4,5 +4,5 @@
 # https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 #力扣的1584题目是非常典型的prim(普利姆)问题,
 #Prim算法的顺序是  1.初始化visit数组  2创建一个distance数组来表示未遍历的节点距离树的最短路径 3设置while循环次数，一般用count表示
-#1584题目链接https://leetcode.cn/problems/min-cost-to-connect-all-points/description/
+#1584题题解链接.\Graph_works\minCostConnectPoints.cpp
 
